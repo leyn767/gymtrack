@@ -2,6 +2,10 @@
 
 GymTrack is a mobile-first fitness tracker for building workout plans, logging exercise details, tracking daily hydration, and reviewing progress. The interface supports English and Arabic, including a right-to-left Arabic layout.
 
+## Live site
+
+[Open GymTrack](https://leyn767.github.io/gymtrack/) (published with GitHub Pages).
+
 ## Features
 
 - Account creation, login, logout, and profile onboarding
@@ -20,7 +24,7 @@ GymTrack is a static single-page application built with HTML, CSS, and vanilla J
 
 ## Run locally
 
-Open `outputs/index.html` in a modern browser, keeping the `outputs/locales/` directory beside it. Or serve the project with Python:
+Open `outputs/index.html` in a modern browser, keeping the `outputs/locales/` directory beside it. Or serve the project locally with Python:
 
 ```sh
 python3 -m http.server 8000
