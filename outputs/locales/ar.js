@@ -300,5 +300,6 @@ window.GymTrackLocales=window.GymTrackLocales||{};window.GymTrackLocales.ar={
   "Resume": "استئناف",
   "Pause": "إيقاف مؤقت",
   "already have an account?": "لديك حساب بالفعل؟",
-  "Good morning,": "صباح الخير،"
+  "Good morning,": "صباح الخير،",
+  "Back to home": "العودة إلى الرئيسية",
 };
