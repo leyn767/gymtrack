@@ -238,5 +238,6 @@ window.GymTrackLocales=window.GymTrackLocales||{};window.GymTrackLocales.en={
   "Calories burned": "Calories burned",
   "days this week": "days this week",
   "classes": "classes",
-  "already have an account?": "already have an account?"
+  "already have an account?": "already have an account?",
+  "Back to home": "Back to home",
 };
