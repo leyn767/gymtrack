@@ -30,7 +30,7 @@ Open `outputs/index.html` in a modern browser, keeping the `outputs/locales/` di
 python3 -m http.server 8000
 ```
 
-Then open [http://localhost:8000/outputs/](http://localhost:8000/outputs/).
+Then open 
 
 ## Data and authentication
 
